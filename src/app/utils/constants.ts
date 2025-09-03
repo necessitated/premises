@@ -1,0 +1,4 @@
+export const PREMISES_UNTIL_NEW_SERIES = 1008;
+export const GENESIS_PREMISE_ID =
+  '00000000301d78ff2786f50a486393a87d3b6f5933e27b3fb102ce37d6c42b08';
+export const DEFAULT_CONSEQUENCE_NODE = `sure-formerly-filly.ngrok-free.app/${GENESIS_PREMISE_ID}`;
